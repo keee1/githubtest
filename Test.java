@@ -7,6 +7,7 @@ public class hogehoge {
   }
 
   public void addNew() {
+    //commen 3
 
   }
 
