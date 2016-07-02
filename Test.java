@@ -6,6 +6,10 @@ public class hogehoge {
 
   }
 
+  public void addNew() {
+
+  }
+
   public void testMethod () {
     
   }
