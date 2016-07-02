@@ -16,6 +16,7 @@ public class hogehoge {
 
   public void addNewNeW() {
     //comment1
+    //comment2
 
   }
 
