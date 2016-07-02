@@ -10,8 +10,12 @@ public class hogehoge {
 
   }
 
-  public void testMethod () {
+  public void hogeMethod() {
     
+  }
+
+  public void testMethod () {
+
   }
 
 }
